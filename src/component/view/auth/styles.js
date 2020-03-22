@@ -50,7 +50,7 @@ export const PhoneTextInput = styled(TextInput)`
 `;
 export const LastTextView = styled.View`
     align-items: center;
-    margin-top: 110px;
+    margin-top: 155px;
 `;
 export const TextP3 = styled(Text)`  
     font-size: 15px;
